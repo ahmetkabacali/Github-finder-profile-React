@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Github-finder-profile-React/static/css/main.27caf4ae.css",
+    "main.js": "/Github-finder-profile-React/static/js/main.335a100d.js",
+    "static/js/787.7cdb18ce.chunk.js": "/Github-finder-profile-React/static/js/787.7cdb18ce.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/Github-finder-profile-React/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/Github-finder-profile-React/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "index.html": "/Github-finder-profile-React/index.html",
+    "main.27caf4ae.css.map": "/Github-finder-profile-React/static/css/main.27caf4ae.css.map",
+    "main.335a100d.js.map": "/Github-finder-profile-React/static/js/main.335a100d.js.map",
+    "787.7cdb18ce.chunk.js.map": "/Github-finder-profile-React/static/js/787.7cdb18ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27caf4ae.css",
+    "static/js/main.335a100d.js"
+  ]
+}
